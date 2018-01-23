@@ -1,0 +1,53 @@
+body{
+
+	font-family: "Helvetica";
+	/*https://mycolor.space/gradient	*/
+	background-image: radial-gradient(circle, #051937, #00273a, #063335, #283b32, #404339);
+}
+
+div{
+
+}
+
+h1{
+	font-size: 90px;
+	margin-bottom: 10px;
+}
+
+h2{
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+
+a{
+	color: teal;
+}
+
+.white{
+	color: white;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+#container{
+	text-align: center;
+}
+
+#signature{
+	color: white;
+	text-align: center;
+	opacity: 0.8;
+}
+
+#location{
+	width: 20%;
+	font-size: 1.5em;
+	color: #051937;
+	border-radius: 15px;
+}
+
+button:focus{
+	outline: 0;
+}
+
